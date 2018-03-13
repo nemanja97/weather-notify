@@ -1,6 +1,6 @@
 <h1 align="center">weather-notify</h1>
 
-<p>An SMS / email notifier sending information about changing weather patterns. Integrates with OpenWeatherMap and Twilio API and requires their keys for proper use.</p>
+<p>An SMS / email notifier sending information about changing weather patterns. Integrates with OpenWeatherMap and Twilio API and requires their keys for proper use. Runs every hour.</p>
 
 <h3> Requirements </h3>
 
